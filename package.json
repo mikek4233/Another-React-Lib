@@ -1,6 +1,6 @@
 {
   "name": "another-react-lib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "another-react-lib React component",
   "main": "lib/index.js",
   "module": "es/index.js",
