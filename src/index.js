@@ -1,7 +1,8 @@
 import React, {Component} from 'react'
-import LoadingButton from './LoadingButton';
+import LoadingButton from './LoadingButton'
+import SimpleRedButton from './SimpleRedButton/SimpleRedButton'
 
-export {LoadingButton}
+export {LoadingButton, SimpleRedButton}
 // export default class extends Component {
 //   render() {
 //     return <div>

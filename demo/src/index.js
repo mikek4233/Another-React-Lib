@@ -1,14 +1,14 @@
 import React, {Component} from 'react'
 import {render} from 'react-dom'
 
-// import LoadingButton from '../../src'
+import SimpleRedButton from '../../src/SimpleRedButton/SimpleRedButton'
 
 class Demo extends Component {
 
 
   render() {
     return <div>
-     Hello World
+     <SimpleRedButton text={'Hello World'}/>
     </div>
   }
 }
