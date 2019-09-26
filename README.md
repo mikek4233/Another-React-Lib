@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # another-react-lib
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe another-react-lib here.
+Just another React Library filled with reusable components
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
@@ -17,5 +16,5 @@ Describe another-react-lib here.
 [coveralls]: https://coveralls.io/github/user/repo
 =======
 # Another-React-Lib
-Just another React Library filled with reusable components
->>>>>>> 23a08085d6695bb037f4da24683437308e4cb00d
+
+
