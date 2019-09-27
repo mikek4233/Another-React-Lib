@@ -28,10 +28,10 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
-  "author": "",
-  "homepage": "",
+  "author": "Nehemiah K",
+  "homepage": "https://github.com/NehemiahK/Another-React-Lib/blob/master/README.md",
   "license": "MIT",
-  "repository": "",
+  "repository": "github:NehemiahK/Another-React-Lib",
   "keywords": [
     "react-component"
   ]
