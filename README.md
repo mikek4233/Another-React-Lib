@@ -15,6 +15,10 @@ Just another React Library filled with reusable components
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
 
+## Install ##
+Navigate into your React project and run the following command
+`npm i another-react-lib`
+
 
 
 
